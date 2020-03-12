@@ -1,3 +1,8 @@
+.DS_Store
+build*
+ehthumbs.db
+Thumbs.db
+
 # Logs
 logs
 *.log
