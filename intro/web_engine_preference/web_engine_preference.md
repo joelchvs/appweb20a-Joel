@@ -1,0 +1,3 @@
+**¿Cuál motor de navegación debe preferir usted como desarrollador? Es decir, ¿cuál navegador usar para probar sus sitios y aplicaciones web, de tal forma que usted esté seguro que con este navegador su sitio se ve bien y sus aplicaciones se comportan de forma esperada?**
+
+Como desarrollador prefereria utilizar Google Chrome como navegador, ya que el mismo está presente en el 65.81% de dispositivos móviles y computadoras lo cual permitiría una mayor seguridad al realizar pruebas, ya que estaría teniendo certeza de que mis aplicaciones se van a compartar de manera esperada y se va a ver bien en una mayoría de dispostivos. Igual procuraría siempre probar mis aplicaciones en otros browsers.
