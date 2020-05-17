@@ -1,0 +1,21 @@
+GET /css?family=Noto+Serif&display=swap HTTP/1.1
+Host: fonts.googleapis.com:443
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+HTTP/1.1 200
+access-control-allow-origin: *
+alt-svc: h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+cache-control: private, max-age=86400, stale-while-revalidate=604800
+content-encoding: gzip
+content-type: text/css; charset=utf-8
+date: Sat, 16 May 2020 22:11:48 GMT
+expires: Sat, 16 May 2020 22:11:48 GMT
+last-modified: Sat, 16 May 2020 20:45:41 GMT
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+server: ESF
+status: 200
+timing-allow-origin: *
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0

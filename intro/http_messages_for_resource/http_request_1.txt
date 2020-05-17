@@ -1,0 +1,16 @@
+GET / HTTP/1.1
+Host: jeisson.ecci.ucr.ac.cr
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Content-Length: 3124
+Content-Type: text/html; charset=utf-8
+Date: Sat, 16 May 2020 22:40:29 GMT
+ETag: "4748-5a339f6ebae76-gzip"
+Last-Modified: Tue, 14 Apr 2020 06:03:54 GMT
+Server: Apache/2.4.25 (Debian)
+Vary: Accept-Encoding

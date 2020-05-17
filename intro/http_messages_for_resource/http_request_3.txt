@@ -1,0 +1,13 @@
+GET /img/jhc-95p.jpg HTTP/1.1
+Host: jeisson.ecci.ucr.ac.cr
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Length: 27694
+Content-Type: image/jpeg
+Date: Sat, 16 May 2020 22:40:29 GMT
+ETag: "6c2e-58442c6caccdf"
+Last-Modified: Sun, 17 Mar 2019 04:33:41 GMT
+Server: Apache/2.4.25 (Debian)

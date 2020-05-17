@@ -1,0 +1,15 @@
+GET /css/asciidoctor.css HTTP/1.1
+Host: jeisson.ecci.ucr.ac.cr
+Accept: text/css,*/*;q=0.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Content-Length: 7124
+Content-Type: text/css
+Date: Sat, 16 May 2020 22:11:22 GMT
+ETag: "7540-59a6c16efd76e-gzip"
+Last-Modified: Tue, 24 Dec 2019 05:05:15 GMT
+Server: Apache/2.4.25 (Debian)
+Vary: Accept-Encoding

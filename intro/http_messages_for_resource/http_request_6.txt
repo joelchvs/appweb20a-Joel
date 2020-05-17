@@ -1,0 +1,25 @@
+GET /ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_HTMLorMML HTTP/1.1
+Host: cdnjs.cloudflare.com:443
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+HTTP/1.1 200
+access-control-allow-origin: *
+age: 19569326
+alt-svc: h3-27=":443"; ma=86400, h3-25=":443"; ma=86400, h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+cache-control: public, max-age=30672000
+cf-cache-status: HIT
+cf-ray: 594899cc4dfee96c-MIA
+cf-request-id: 02c13e73a90000e96cf211a200000001
+content-encoding: br
+content-type: application/javascript; charset=utf-8
+date: Sat, 16 May 2020 22:40:30 GMT
+etag: W/"5b517a92-f82c"
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+expires: Thu, 06 May 2021 22:40:30 GMT
+last-modified: Fri, 20 Jul 2018 06:00:50 GMT
+served-in-seconds: 0.003
+server: cloudflare
+status: 200
+timing-allow-origin: *
+vary: Accept-Encoding
