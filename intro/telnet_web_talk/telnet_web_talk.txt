@@ -1,0 +1,18 @@
+Para usar el comando telnet se debe habilitar en los programas de windows
+
+
+
+
+
+
+
+
+telnet jeisson.ecci.ucr.ac.cr 80
+
+GET /appweb/material/introduction/problem_solving/img/problem_solving_process.svg HTTP/1.1
+Host: jeisson.ecci.ucr.ac.cr
+
+telnet mv2.mediacionvirtual.ucr.ac.cr 80
+
+GET /pluginfile.php/1/theme_essential/logo/1588805090/logo_mediacionvirtual-01.png HTTP/1.1
+Host: mv1.mediacionvirtual.ucr.ac.cr

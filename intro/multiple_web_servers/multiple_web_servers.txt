@@ -1,0 +1,3 @@
+Según lo investigado sí es posible dos servidores web instalados y activos en un mismo equipo 
+con una única interfaz de red, y para para diferenciar cuáles peticiones de los clientes le pertenece a cada uno
+se haría mediante el uso de diferentes puertos para los diferentes servidores webs.

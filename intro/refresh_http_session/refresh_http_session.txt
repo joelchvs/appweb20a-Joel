@@ -1,0 +1,6 @@
+Si el usuario tiene cargada una página web y presiona el botón refrescar
+entonces elnavegador web debería nueva solicitud, esta solicitud mostraría eventuales cambios
+que se realizaron. Un método para ahorrar tráfico en la red es que cuando refescamos una página
+web se refresque solo el html pero se usan algunos elemento como imágenes o scripts que ya estaban en caché la primera
+vez que cargamos la página. 
+

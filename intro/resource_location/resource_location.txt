@@ -1,0 +1,8 @@
+Primero se define el protocolo que está usando la petición, como en este caso
+usa http, sabe que la peticion es a un servidor web, después se ubica que el servidor web
+que debe acceder es a localhost (en el puerto 80 porque no se define explicitamente), al leer la ruta (lo que 
+está) después del slash despúes del nombre del servidor y el puerto, se sabe cual archivo debe acceder en caso 
+de que este exista en la ruta especificada.
+
+En caso de ingresar http://localhost/ el servidor Web intenta acceder al directorio que especificamos
+como Document root en la configuración de nuestro servidor web.
