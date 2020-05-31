@@ -1,0 +1,9 @@
+El documento no está bien formateado
+- En la línea 5 no se cierra el tag <text>
+- En la línea 7 se debe usar comillas para el atributo aunque sea un número
+- En la línea 8 se debe usar comillas para el atributo aunque sea un número
+- En la línea 9 se debe usar comillas para el atributo aunque sea un número
+- En la línea 12 al principio del comentario debería ser !--
+- En la línea 12 dentro del comentario aparece 
+	-------------------------------------------- 
+	y muchos procesadres de XML  prohiben más de un guión dentro de un comentario

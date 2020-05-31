@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<quiz name="os_quiz_1">
+	<question name="bootstrap" type="single-choice">
+		<text>¿A qué se refiere <i>bootstrap</i> del sistema operativo?</text>
+		<options>
+			<option code="1">Nadie se puede colgar en sus propias botas</option>
+			<option code="2">Una biblioteca de desarrollo web</option>
+			<option code="3">El arranque del sistema operativo</option>
+		</options>
+	</question>
+	<!-- holA -->
+	<question name="bootstrap" type="textual" min-lenght="15">
+		<text>¿Qué fenómeno del OS representan los filósofos comensales?</text>
+	</question>
+</quiz>
