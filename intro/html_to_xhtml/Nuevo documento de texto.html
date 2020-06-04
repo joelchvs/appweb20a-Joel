@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<TITLE>Conversión HTML a XHTML</title>
+
+<H1>Conversión HTML a XHTML</H1>
+<OL>
+	<LI>Cambie todos los identificadores a minúsculas.
+	<LI>Asegúrese de que todos los elementos estén cerrados.
+	<LI>Agregue comillas a todos los valores de atributos.<BR>
+		Si hay atributos minimizados, repita su valor entre comillas.
+	<LI>Agregue los elementos <CODE>html</CODE>, <CODE>head</CODE> y <CODE>body</CODE> si no lo están.
+</oL>
+<HR>
+<H1>Conversión XHTML a HTML</H1>
+<OL>
+	<LI>No cierre los elementos que se componen de sólo una etiqueta: <CODE>img</CODE>, <CODE>br</CODE>, <CODE>hr</CODE>, ...
+	<LI>Si las hay, elimine las secciones CDATA y convierta los caracteres especiales (<CODE>&lt;</CODE>, <CODE>&gt;</CODE>,<CODE>&amp;</CODE>) en sus respectivas referencias de entidad (<CODE>&amp;lt;</CODE>, <CODE>&amp;gt;</CODE>, <CODE>&amp;amp;</CODE>).
+</oL>
+<HR>
+<P><BUTTON DISABLED>Cerrar</BUTTON>
