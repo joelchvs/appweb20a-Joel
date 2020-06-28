@@ -1,0 +1,15 @@
+{
+  "name": "exc_eslint",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "multiplication_tables.js",
+  "dependencies": {
+    "eslint": "^7.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
